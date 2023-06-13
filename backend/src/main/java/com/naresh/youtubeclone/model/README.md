@@ -1,0 +1,1 @@
+This directory contains all the Database related entities for the user and the videos

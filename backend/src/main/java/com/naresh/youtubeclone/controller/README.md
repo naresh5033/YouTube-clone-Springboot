@@ -1,0 +1,1 @@
+This controller directory has the end pt for our user to upload the video into the s3.
